@@ -38,7 +38,7 @@ socket_programming/
 ### Starting the Server
 
 ```bash
-python Server.py
+python3 Server.py
 ```
 
 The server will:
@@ -50,7 +50,7 @@ The server will:
 ### Running the Client
 
 ```bash
-python client.py
+python3 client.py
 ```
 
 The client will:
